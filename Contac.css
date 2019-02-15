@@ -1,0 +1,194 @@
+#index {
+  background-color: #f3f3f2;
+}
+
+header {
+  width: 960px;
+  height: 10px;
+  margin: 0 auto;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #fcc800;
+  text-decoration: none;
+}
+
+a:visited {
+  color: orange;
+}
+
+.global-nav {
+  float: right;
+  margin-top: 50px;
+  margin-right: -150px;
+}
+
+.global-nav li {
+  float: left;
+  margin: 0 20px;
+  list-style: none;
+}
+
+.logo img {
+  margin-top: 50px;
+  margin-left: -130px;
+}
+
+#Contac img {
+  margin-top: -40px;
+}
+
+#Contac .top {
+  width: 90px;
+  height: 80px;
+  margin-top: -30px;
+}
+
+#Contac .Contac {
+  width: 100px;
+  height: 90px;
+  margin-top: -30px;
+}
+
+#Contac .logomark {
+  margin-top: -68px;
+  width: 150px;
+  height: 200px;
+}
+
+.clearfix:after {
+  content: "";
+  clear: both;
+}
+
+h1 {
+  float: left;
+  width: 1200px;
+  font-family: serif;
+  border-bottom: 1px solid;
+  margin-top: -10px;
+  margin-left: 25px;
+}
+
+p {
+  clear: both;
+  font-size: 15px;
+  margin-top: 5px;
+  margin-left: 25px;
+}
+
+h2 {
+  clear: both;
+  float: right;
+  font-family: serif;
+  border-bottom: 1px solid;
+  margin-top: 20px;
+  margin-right: 400px;
+}
+
+#Contac .access table {
+  clear: both;
+  float: right;
+  margin-right: 250px;
+}
+
+#Contac .access th ,
+#Contac .access td {
+  clear: both;
+  text-align: left;
+  vertical-align: top;
+  line-height: 5;
+}
+
+#Contac .map-img {
+  width: 450px;
+  height: 300px;
+  margin-top: 70px;
+  margin-left: 80px;
+}
+
+h3 {
+  clear: both;
+  float: left;
+  font-size: 25px;
+  font-family: serif;
+  border-bottom: 1px solid;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+#Contac .form {
+  clear: both;
+  background-color: #ae7c58;
+  padding: 30px 50px;
+}
+
+#Contac .form dl dt {
+  width: 170px;
+  padding: 10px 0;
+}
+
+#Contac .form dl dd {
+  padding: 10px 0;
+}
+
+#Contac .form .name {
+  width: 240px;
+  height: 30px;
+}
+
+#Contac .form .e-mail {
+  width: 300px;
+  height: 30px;
+}
+
+#Contac .form .tel {
+  width: 240px;
+  height: 30px;
+}
+
+#Contac .form .type {
+  width: 180px;
+  height: 30px;
+}
+
+#Contac .form .required:after {
+  content: "*";
+  color: red;
+}
+
+#Contac .form button {
+  background-color: brown;
+  color: white;
+  font-size: 15px;
+  font-family: serif;
+  width: 150px;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 20px;
+  margin-left: 45px;
+  border-radius: 5px;
+  border: 3px solid;
+}
+
+#Contac .form button:hover {
+  text-decoration: none;
+  background-color: white;
+  color: brown;
+  cursor: pointer;
+}
+
+#Contac .form-img {
+  float: right;
+  clear: both;
+  width: 550px;
+  height: 400px;
+  margin-top: -480px;
+  margin-right: 80px;
+}

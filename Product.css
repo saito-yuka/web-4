@@ -1,0 +1,132 @@
+#index {
+  background-color: #f3f3f2;
+}
+
+header {
+  width: 960px;
+  height: 10px;
+  margin: 0 auto;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #fcc800;
+  text-decoration: none;
+}
+
+a:visited {
+  color: orange;
+}
+
+.global-nav {
+  float: right;
+  margin-top: 50px;
+  margin-right: -150px;
+}
+
+.global-nav li {
+  float: left;
+  margin: 0 20px;
+  list-style: none;
+}
+
+.logo img {
+  margin-top: 50px;
+  margin-left: -130px;
+}
+
+#Product img {
+  margin-top: -40px;
+}
+
+#Product .top {
+  width: 90px;
+  height: 80px;
+  margin-top: -30px;
+}
+
+#Product .Contac {
+  width: 100px;
+  height: 90px;
+  margin-top: -30px;
+}
+
+#Product .logomark {
+  margin-top: -68px;
+  width: 150px;
+  height: 200px;
+}
+
+.clearfix:after {
+  content: "";
+  clear: both;
+}
+
+h1 {
+  float: left;
+  width: 1200px;
+  font-family: serif;
+  border-bottom: 1px solid;
+  margin-top: -5px;
+  margin-left: 25px;
+}
+
+#Product .clothes {
+  float:left;
+  clear: both;
+}
+
+#clothes h2 {
+  float: left;
+  clear: both;
+  font-family: serif;
+  border-left: 6px solid yellow;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+#clothes p {
+  float: left;
+  clear: both;
+  font-family: serif;
+  margin-top: -10px;
+  margin-left: 60px;
+}
+
+#clothes img {
+  width: 400px;
+  height: 250px;
+  float: left;
+  margin-top: 65px;
+  margin-left: -170px;
+}
+
+#marchandise h2 {
+  float: right;
+  clear: both;
+  font-family: serif;
+  border-left: 6px solid yellow;
+  margin-top: -90px;
+  margin-right: 200px;
+}
+
+#marchandise p {
+  float: right;
+  clear: both;
+  font-family: serif;
+  margin-top: -50px;
+  margin-right: 80px;
+}
+
+#marchandise img {
+  width: 420px;
+  height: 250px;
+  float: right;
+  clear: both;
+  margin-top: -400px;
+  margin-right: 210px;
+}

@@ -1,0 +1,93 @@
+#index {
+  background-image: url(../画像/ファッション13.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: 100% auto;
+}
+
+header {
+  width: 960px;
+  height: 10px;
+  margin: 0 auto;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #fcc800;
+  text-decoration: none;
+}
+
+a:visited {
+  color: orange;
+}
+
+.global-nav {
+  float: right;
+  margin-top: 50px;
+  margin-right: -150px;
+}
+
+.global-nav li {
+  float: left;
+  margin: 0 20px;
+  list-style: none;
+}
+
+.logo img {
+  width: 200px;
+  margin-top: 50px;
+  margin-left: -130px;
+}
+
+#index img {
+  margin-top: -40px;
+}
+
+#index .top {
+  width: 90px;
+  height: 80px;
+  margin-top: -30px;
+}
+
+#index .Contac {
+  width: 100px;
+  height: 90px;
+  margin-top: -30px;
+}
+
+#index .logomark {
+  margin-top: -60px;
+  width: 150px;
+  height: 200px;
+}
+
+/*#wrap h1 {
+  font-size: 50px;
+  line-height: 4;
+  font-family: serif;
+  }
+
+#wrap span {
+  color: #e65309;
+  font-size: 100px;
+  margin-top: 10px;
+  margin-left: 250px;
+}
+
+#wrap br {
+  color: #dd7a56;
+}
+
+#wrap .content {
+  margin-top: 200px;
+  margin-left: 180px;
+}*/
+
+#wrap {
+  clear: both;
+}
